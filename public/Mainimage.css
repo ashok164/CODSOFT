@@ -1,0 +1,21 @@
+.MainImage > .text {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.1);
+  transform: translate(7%, -350%);
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  width: 40%;
+  border: 1px solid green;
+  font-size: x-large;
+}
+
+.MainImage img {
+  width: 100%;
+  height: 100%;
+}
+
+.MainImage {
+  height: 100%;
+  position: relative;
+}

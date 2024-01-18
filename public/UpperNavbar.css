@@ -1,0 +1,47 @@
+
+.Navbar-III{
+    display: flex;
+    background: linear-gradient(to right, rgb(255, 3, 3), hsl(315, 100%, 50%), #ff0138);
+    color:white;
+    gap:8rem ;
+    align-items: center;
+}
+
+.LogoList{
+    display: flex;
+    margin-left: 12rem !important;
+    gap: 1rem;
+    
+}
+
+.LogoList ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    width: 50%;
+    gap:5px;
+
+}
+
+
+.Contact{
+    display:flex;
+    gap:1rem;
+    margin-left: 6rem;
+
+    width: 100%;
+    justify-content: end;
+    
+
+}
+
+.Consult{
+    margin-right:0rem ;
+    width: 100%;
+
+}
+
+.SocialIcon{
+    border: 1px solid green;
+}

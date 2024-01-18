@@ -1,0 +1,32 @@
+*{
+    padding-top: 0px;
+    margin:0px 0px 0px 0px
+}
+.section{
+    margin:0px;
+    padding:0px;
+    background: linear-gradient(to right, rgb(255, 3, 3), hsl(315, 100%, 50%), #ff0138);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap:5rem;
+    background-color: #ed2027;
+    color: white;
+    
+}
+
+.Section-1{
+    
+    justify-content: right;
+    align-items: right;
+    margin-left: 12rem;
+    
+}
+
+.Section-3{
+    
+    justify-content: right;
+    align-items: right;
+    margin-right: 12rem;
+}

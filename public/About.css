@@ -1,0 +1,33 @@
+*{
+    font-family: 'Salsa', cursive;
+}
+.Section{
+    display: flex;
+    margin:0px;
+    padding-top:20px;
+    display:flex;
+    justify-content: center;
+    width: 100%;
+    gap: 8rem;
+    
+}
+
+.Section-4{
+width:50%;
+margin-left: 12rem;
+}
+
+
+.Section-5{
+    width:50%;
+    margin-right: 12rem;
+    
+}
+
+h2{
+    padding:10px;
+}
+
+h3{
+    padding:10px;
+}
